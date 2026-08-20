@@ -1,0 +1,6 @@
+year,projected,lower_bound,upper_bound,source_column,last_known_year,last_known_value
+2025,51.4071,48.9071,53.9071,active_conflicts,2024,61.0
+2026,49.7889,44.7889,54.7889,active_conflicts,2024,61.0
+2027,47.7537,40.2537,55.2537,active_conflicts,2024,61.0
+2028,46.7979,36.7979,56.7979,active_conflicts,2024,61.0
+2029,46.0079,33.5079,58.5079,active_conflicts,2024,61.0

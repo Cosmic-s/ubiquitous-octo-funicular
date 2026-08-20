@@ -1,0 +1,6 @@
+year,projected,lower_bound,upper_bound,source_column,last_known_year,last_known_value
+2023,16.9754,16.6854,17.2654,world_avg,2022,15.6
+2024,17.2226,16.6426,17.8026,world_avg,2022,15.6
+2025,17.4962,16.6262,18.3662,world_avg,2022,15.6
+2026,17.5972,16.4372,18.7572,world_avg,2022,15.6
+2027,17.6632,16.2132,19.1132,world_avg,2022,15.6
